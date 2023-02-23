@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: spring-app
-        image:  mylandmarktech/spring-boot-mongo
+        image:  depuis2031/spring-boot-mongo
         resources:
           requests:
             cpu: "20m"
